@@ -71,4 +71,4 @@ Developed by Sujal Yadav
 Special thanks to GameDev.tv
 
 ## Screenshots
-
+![image alt](https://github.com/Nethunter0508/Surfer-Dash/blob/8e8efb0dd9cf82c0f511b18036da4e75ffecd4c2/Sample%20Image.png)
